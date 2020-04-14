@@ -429,32 +429,21 @@
 	</dict>
 	<key>GUI</key>
 	<dict>
-		<key>CustomIcons</key>
-		<false/>
-		<key>EmbeddedThemeType</key>
-		<string>Daytime</string>
 		<key>Hide</key>
 		<array>
 			<string>Preboot</string>
-			<string>Recovery</string>
 		</array>
 		<key>Language</key>
 		<string>en-US:0</string>
-		<key>PlayAsync</key>
-		<true/>
 		<key>Scan</key>
 		<dict>
 			<key>Entries</key>
 			<true/>
-			<key>Legacy</key>
-			<false/>
 			<key>Linux</key>
 			<false/>
 		</dict>
 		<key>ScreenResolution</key>
 		<string>1920x1080</string>
-		<key>ShowOptimus</key>
-		<false/>
 		<key>Theme</key>
 		<string>BGM</string>
 	</dict>
